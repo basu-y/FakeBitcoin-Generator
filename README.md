@@ -1,0 +1,2 @@
+# FakeBitcoin-Generator
+Educational Project
